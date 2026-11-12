@@ -26,7 +26,7 @@ A fictional Finnish B2B company CRM implementation covering Salesforce configura
 **Next:** Contacts, Leads and Opportunities.
 
 ## Training
-BlueRoad Academy Salesforce traineeship, 27 October–10 December 2025. Programme sponsored by Accenture.
+BlueRoad Academy Salesforce traineeship.
 
 ## Note
 All customer and business data used in this portfolio is fictional.
